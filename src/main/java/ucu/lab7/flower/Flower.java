@@ -3,7 +3,6 @@ package ucu.lab7.flower;
 import java.util.Objects;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonUnwrapped;
 
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
